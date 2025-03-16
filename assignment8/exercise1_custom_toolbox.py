@@ -108,4 +108,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-'Had some issues with this code'
+'Had some issues with this code because of read/write permissions'
